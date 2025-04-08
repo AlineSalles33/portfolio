@@ -1,0 +1,13 @@
+html {
+  color: Black;
+}
+
+#menu li {
+  float: left;
+}
+
+#projects li {
+  float: left;
+  list-style: none;
+  border-right: 50px;
+}
